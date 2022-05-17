@@ -19,9 +19,6 @@ Estadístico e Informático apasionado por la ciencia de los datos, con experien
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 <br><br><br>
-![](https://github-readme-stats.vercel.app/api?username={dcanalesq}&theme=blue-green)
-![](https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
 
 **🚀 Intereses:**
 ------
