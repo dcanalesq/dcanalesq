@@ -1,7 +1,7 @@
 <p align="center">
   <img src="http://drive.google.com/uc?export=view&id=1Nzc-xvkkDKaZLHP-jca8Wz-lN1fVlW5P" alt="dcanalesq">
 </p>
-Especialista en <b>ciencia de los datos</b>, con experiencia en el área de Inteligencia Comercial del sector <i>salud</i> y <i>educación</i>🏥🏫.
+Especialista en <b>ciencia de los datos</b>, con experiencia en el área de Inteligencia Comercial en el sector salud y educación🏥🏫.
 <br><br>
 
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
